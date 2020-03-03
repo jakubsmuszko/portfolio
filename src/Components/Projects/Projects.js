@@ -43,7 +43,7 @@ class Projects extends React.Component {
                     <img src={gitmark} class="icons" alt="placeholder" />
                   </a>
                   <a
-                    href="https://jakubsmuszko.github.io/pizzeria/"
+                    href="http://jakubsmuszko.github.io/portfolio"
                     target="_blank"
                   >
                     <img src={liveprev} class="icons" alt="placeholder" />
