@@ -1,0 +1,13 @@
+.footer-container {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  background-color: #181818;
+}
+
+.foot-copy {
+  font-size: 14px;
+  margin: 0 auto;
+}

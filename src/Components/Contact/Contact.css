@@ -1,0 +1,50 @@
+.contact-container {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  margin: 50px;
+  text-align: center;
+}
+
+.contact-header {
+  text-align: center;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+#contact-form {
+  font-size: 32px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+}
+.label {
+  text-align: left;
+  float: left;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  float: right;
+  font-size: 32px;
+  width: 300px;
+  /* margin-left: 10px; */
+}
+
+.btn {
+  font-size: 26px;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: #e31b6d;
+  border-color: #181818;
+  border-width: 2px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: #08fdd8;
+}

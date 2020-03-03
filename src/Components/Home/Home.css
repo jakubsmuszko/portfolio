@@ -1,0 +1,23 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  /* flex-flow: column wrap;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  text-align: center;
+  color: blue; */
+}
+
+.home-header {
+  font-family: "Raleway-Bold";
+  font-size: 48px;
+  z-index: 1;
+}
+
+.pink {
+  color: #e31b6d;
+}
