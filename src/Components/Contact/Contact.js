@@ -16,7 +16,7 @@ class Contact extends React.Component {
     e.preventDefault();
     axios({
       method: "POST",
-      url: "http://localhost:3002/send",
+      url: "https://git.heroku.com/fierce-caverns-83177.git",
       data: this.state
     }).then(response => {
       if (response.data.status === "success") {
