@@ -104,13 +104,13 @@ class Projects extends React.Component {
                 </p>
                 <div>
                   <a
-                    href="https://github.com/jakubsmuszko/doglify"
+                    href="https://jakubsmuszko.github.io/doglify/"
                     target="_blank"
                   >
                     <img src={gitmark} class="icons" alt="placeholder" />
                   </a>
                   <a
-                    href="https://jakubsmuszko.github.io/pizzeria/"
+                    href="https://github.com/jakubsmuszko/doglify"
                     target="_blank"
                   >
                     <img src={liveprev} class="icons" alt="placeholder" />
